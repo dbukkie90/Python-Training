@@ -96,6 +96,7 @@ print (a)
 
 #print ("spam" * 3)
 
+
 '''
 print ("Enter the first number")
 a = int (input())
@@ -120,4 +121,6 @@ else:
 if (result>=51) and (result <=60):
     print ("I am inbetween")
 '''
-    
+
+print ((4<5) and (5>6))
+   
